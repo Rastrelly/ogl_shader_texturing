@@ -1,4 +1,7 @@
-﻿#define STB_IMAGE_IMPLEMENTATION
+﻿//based on: https://learnopengl.com/Getting-started/Textures
+//todo: individual texture loading function separate from main code
+
+#define STB_IMAGE_IMPLEMENTATION
 
 #include "shader.h"
 
